@@ -4,13 +4,13 @@
 	"socials": [
 		{
 			"title": "Facebook",
-			"link": "https://facebook.com",
+			"link": "https://www.facebook.com/wrycanc",
 			"icon": "ic:baseline-facebook"
 		},
 		{
-			"title": "Instagram",
-			"link": "https://www.instagram.com/",
-			"icon": "mdi:instagram"
+			"title": "LinkedIn",
+			"link": "https://www.linkedin.com/company/wrycanc/",
+			"icon": "mdi:linkedin"
 		},
 	]
 }
